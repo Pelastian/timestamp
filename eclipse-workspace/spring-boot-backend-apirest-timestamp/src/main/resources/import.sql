@@ -1,0 +1,11 @@
+INSERT INTO empleados(nombre, apellido, email, fecha_ingreso) VALUES('Seba'  ,'Acuña'    ,'sacunam@gmail.com'      , '2017-12-01' );
+INSERT INTO empleados(nombre, apellido, email, fecha_ingreso) VALUES('Joha'  ,'Quinteros','jquinterosq@hotmail.com', '2017-12-01' );
+INSERT INTO empleados(nombre, apellido, email, fecha_ingreso) VALUES('Andrés','Soto'     ,'soto@hotmail.com'       , '2017-12-01' );
+INSERT INTO empleados(nombre, apellido, email, fecha_ingreso) VALUES('José'  ,'Cea'      ,'cea@hotmail.com'        , '2017-12-01' );
+INSERT INTO empleados(nombre, apellido, email, fecha_ingreso) VALUES('Ana'   ,'Torres'   ,'ana@hotmail.com'        , '2017-12-01' );
+INSERT INTO empleados(nombre, apellido, email, fecha_ingreso) VALUES('Juan'  ,'Vázquez'  ,'hjuan@hotmail.com'      , '2017-12-01' );
+INSERT INTO empleados(nombre, apellido, email, fecha_ingreso) VALUES('Pedro' ,'Jara'     ,'jjj@hotmail.com'        , '2017-12-01' );
+INSERT INTO empleados(nombre, apellido, email, fecha_ingreso) VALUES('Mateo' ,'Dotte'    ,'cc@hotmail.com'         , '2017-12-01' );
+INSERT INTO empleados(nombre, apellido, email, fecha_ingreso) VALUES('Marco' ,'López'    ,'ty78@hotmail.com'       , '2017-12-01' );
+INSERT INTO empleados(nombre, apellido, email, fecha_ingreso) VALUES('Juana' ,'Machuaca' ,'post67@hotmail.com'     , '2017-12-01' );
+INSERT INTO empleados(nombre, apellido, email, fecha_ingreso) VALUES('María' ,'Young'    ,'ert54@hotmail.com'      , '2017-12-01' );
